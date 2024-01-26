@@ -22,6 +22,7 @@ by.udemy React 완벽 가이드
 
 ##### 로그 화면
 <img src="./README_img/log.png">
+<br>
 
 ### [JS vs JSX]
 #### JSX
